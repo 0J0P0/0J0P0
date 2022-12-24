@@ -1,6 +1,5 @@
 # About Me:
 
-[![](https://visitcount.itsvg.in/api?id=0J0P0&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 🔭 I’m currently studying at UPC as Data Science and Engineering student.
 
 
