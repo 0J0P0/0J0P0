@@ -1,6 +1,6 @@
 # About Me:
 
-🔭 I’m currently studying at UPC as Data Science and Engineering student.
+🔭 I’m currently studying at UPC as a Data Science and Engineering student.
 
 
 # Tech Stack:
