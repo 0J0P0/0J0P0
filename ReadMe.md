@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=0J0P0&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0J0P0&theme=gotham&hide_border=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0J0P0&hide_progress=false&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0J0P0&hide_progress=false&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=0J0P0&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
