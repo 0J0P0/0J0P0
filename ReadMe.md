@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,c,cpp,cmake,latex,linux,md,matlab,postgres,py,r,vscode)](https://skillicons.dev)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0J0P0&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0J0P0&label=Profile%20Views&color=0&icon=5&pretty=false)](https://github.com/0J0P0#)
 ---
 
 # GitHub Stats:
