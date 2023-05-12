@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm J.P. Zaldivar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/0J0P0"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=48C9B0&size=25&center=true&vCenter=true&width=600&height=100&lines=Studying+Data+Science+and+Engineering+at+UPC;And+student+at+42+Barcelona+School"></a>
+  <a href="https://github.com/0J0P0"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=48C9B0&size=25&center=true&vCenter=true&width=700&height=100&lines=Studying+Data+Science+and+Engineering+at+UPC;And+student+at+42+Barcelona+School"></a>
 </p>
 
 
